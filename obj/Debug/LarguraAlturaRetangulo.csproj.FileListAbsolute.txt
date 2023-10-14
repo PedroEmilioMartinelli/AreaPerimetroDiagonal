@@ -1,0 +1,7 @@
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\bin\Debug\LarguraAlturaRetangulo.exe.config
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\bin\Debug\LarguraAlturaRetangulo.exe
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\bin\Debug\LarguraAlturaRetangulo.pdb
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\obj\Debug\LarguraAlturaRetangulo.csproj.AssemblyReference.cache
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\obj\Debug\LarguraAlturaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\obj\Debug\LarguraAlturaRetangulo.exe
+C:\Users\marti\Softwares\C#\LarguraAlturaRetangulo\LarguraAlturaRetangulo\obj\Debug\LarguraAlturaRetangulo.pdb
